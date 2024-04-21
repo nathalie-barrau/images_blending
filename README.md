@@ -32,7 +32,9 @@ This project present a simple proof of concept to optimized skin images blending
 
 ## Installation
 
-Python 3.8 is required (more recent Python versions might work but have not been tested)
+Install Python 3.8 (more recent Python versions might work but have not been tested)
+
+Clone the repository
 
 (Optional) Create a virtual environment with Python 3.8
     
