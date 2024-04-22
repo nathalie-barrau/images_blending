@@ -21,7 +21,7 @@ This project present a simple proof of concept to optimized skin images blending
     │       │   └── `4.tiff`                   
     │       ├── preprocessed/          
     │       └── mosaic/
-    ├── scripts/              
+    ├── src/              
     │   ├── `preprocessing.py`: Contains functions for different image preprocessing steps                   
     │   ├── `blending.py`: Contains functions for registration and images blending    
     │   └── `postprocessing.py`: Contains a function for mosaic postprocessing
