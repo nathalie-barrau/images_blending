@@ -24,9 +24,9 @@ def registration(folder_path: str):
     imgs = []
     affineTransforms = []
     
-    if folder_path.find("case01"):
+    if folder_path.find("case01") > 0:
         case = 1
-    elif folder_path.find("case02"):
+    elif folder_path.find("case02") > 0:
         case = 2
     else:
         print("Error: folder path must contain 'case01' or 'case02'")
